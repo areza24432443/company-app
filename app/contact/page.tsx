@@ -1,4 +1,4 @@
-import ContactForm from "../../componets/ContactForm";
+import ContactForm from "../../components/ContactForm";
 
 
 
